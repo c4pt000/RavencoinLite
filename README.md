@@ -1,3 +1,8 @@
+added ravencoinlite to radiox-exchange
+![s1](https://github.com/c4pt000/RavencoinLite/releases/download/ubuntu1804-deb/ravencoin-lite-market-main.png)
+
+https://github.com/c4pt000/radiox-exchange
+
 RavencoinLite Core integration/staging tree
 =====================================
 [![C/C++ CI](https://github.com/RavencoinLite/RavencoinLite/actions/workflows/linux.yml/badge.svg)](https://github.com/RavencoinLite/RavencoinLite/actions/workflows/linux.yml)
